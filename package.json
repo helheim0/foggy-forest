@@ -7,6 +7,10 @@
     "vscode": "^1.97.0"
   },
   "publisher": "kartoffelente",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/helheim0/foggy-forest"
+  },
   "categories": [
     "Themes"
   ],
@@ -32,5 +36,6 @@
     "color": "#4b4b4b",
     "theme": "dark"
   },
+  "icon": "icon.png",
   "pricing": "Free"
 }
