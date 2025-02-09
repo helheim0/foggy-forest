@@ -1,9 +1,9 @@
 # Change Log
 
-All notable changes to the "foggy-forest" extension will be documented in this file.
+## [1.0.1] - 2025-02-09
+- Add images
+- Edit readme
+- Small fixes
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
+## [1.0.0] - 2025-02-09
 - Initial release

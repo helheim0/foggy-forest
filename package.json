@@ -2,7 +2,7 @@
   "name": "foggy-forest",
   "displayName": "Foggy Forest",
   "description": "A pleasant dark theme with a touch of green",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.97.0"
   },
