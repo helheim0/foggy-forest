@@ -13,10 +13,10 @@ You can report any issues, suggestions [here](https://github.com/helheim0/foggy-
 ## Example screenshots
 ![Example of basic sytntax colors from a file](image.png)
 
-![Example of .env and json files](image-1.png)
+![Example of simple file](image1.png)
 
-![Example of routes](image-2.png)
+![Example json file](image2.png)
 
-![Screenshot of the whole theme](image-3.png)
+![Screenshot of the whole theme](image3.png)
 
 **Enjoy and tell me what you think!**
