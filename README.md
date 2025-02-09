@@ -10,13 +10,14 @@ The extension is available for free on [Visual Studio Code Marketplace](https://
 
 [Git repo](https://github.com/helheim0/foggy-forest)
 You can report any issues, suggestions [here](https://github.com/helheim0/foggy-forest/issues).
-## Example screenshots
+
+<!-- ## Example screenshots
 ![Example of basic sytntax colors from a file](image.png)
 
 ![Example of simple file](image1.png)
 
 ![Example json file](image2.png)
 
-![Screenshot of the whole theme](image3.png)
+![Screenshot of the whole theme](image3.png) -->
 
 **Enjoy and tell me what you think!**
