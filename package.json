@@ -1,8 +1,8 @@
 {
-  "name": "foggy-forest",
-  "displayName": "Foggy Forest",
+  "name": "froggy-forest",
+  "displayName": "Froggy Forest",
   "description": "A pleasant dark theme with a touch of green",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.97.0"
   },
